@@ -1,0 +1,1124 @@
+2017-07-11 18:32:16 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:32:16 Bitcoin version v0.14.2
+2017-07-11 18:32:16 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:32:16 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:32:16 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:32:16 Validating signatures for all blocks.
+2017-07-11 18:32:16 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:32:16 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:32:16 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:32:16 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:32:16 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:32:16 Using 2 threads for script verification
+2017-07-11 18:32:16 scheduler thread start
+2017-07-11 18:32:16 Binding RPC on address :: port 19011 failed.
+2017-07-11 18:32:16 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:32:16 Unable to bind any endpoint for RPC server
+2017-07-11 18:32:16 Error: Unable to start HTTP server. See debug log for details.
+2017-07-11 18:32:16 Shutdown: In progress...
+2017-07-11 18:32:16 scheduler thread interrupt
+2017-07-11 18:32:16 Shutdown: done
+2017-07-11 18:32:17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:32:17 Bitcoin version v0.14.2
+2017-07-11 18:32:17 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:32:17 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:32:17 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:32:17 Validating signatures for all blocks.
+2017-07-11 18:32:17 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:32:17 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:32:17 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:32:17 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:32:17 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:32:17 Using 2 threads for script verification
+2017-07-11 18:32:17 scheduler thread start
+2017-07-11 18:32:17 Binding RPC on address :: port 19011 failed.
+2017-07-11 18:32:17 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:32:17 Unable to bind any endpoint for RPC server
+2017-07-11 18:32:17 Error: Unable to start HTTP server. See debug log for details.
+2017-07-11 18:32:17 Shutdown: In progress...
+2017-07-11 18:32:17 scheduler thread interrupt
+2017-07-11 18:32:17 Shutdown: done
+2017-07-11 18:32:23 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:32:23 Bitcoin version v0.14.2
+2017-07-11 18:32:23 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:32:23 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:32:23 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:32:23 Validating signatures for all blocks.
+2017-07-11 18:32:23 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:32:23 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:32:23 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:32:23 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:32:23 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:32:23 Using 2 threads for script verification
+2017-07-11 18:32:23 scheduler thread start
+2017-07-11 18:32:23 Binding RPC on address :: port 19011 failed.
+2017-07-11 18:32:23 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:32:23 Unable to bind any endpoint for RPC server
+2017-07-11 18:32:23 Error: Unable to start HTTP server. See debug log for details.
+2017-07-11 18:32:23 Shutdown: In progress...
+2017-07-11 18:32:23 scheduler thread interrupt
+2017-07-11 18:32:23 Shutdown: done
+2017-07-11 18:32:24 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:32:24 Bitcoin version v0.14.2
+2017-07-11 18:32:24 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:32:24 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:32:24 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:32:24 Validating signatures for all blocks.
+2017-07-11 18:32:24 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:32:24 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:32:24 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:32:24 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:32:24 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:32:24 Using 2 threads for script verification
+2017-07-11 18:32:24 scheduler thread start
+2017-07-11 18:32:24 Binding RPC on address :: port 19011 failed.
+2017-07-11 18:32:24 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:32:24 Unable to bind any endpoint for RPC server
+2017-07-11 18:32:24 Error: Unable to start HTTP server. See debug log for details.
+2017-07-11 18:32:24 Shutdown: In progress...
+2017-07-11 18:32:24 scheduler thread interrupt
+2017-07-11 18:32:24 Shutdown: done
+2017-07-11 18:32:37 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:32:37 Bitcoin version v0.14.2
+2017-07-11 18:32:37 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:32:37 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:32:37 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:32:37 Validating signatures for all blocks.
+2017-07-11 18:32:37 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:32:37 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:32:37 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:32:37 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:32:37 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:32:37 Using 2 threads for script verification
+2017-07-11 18:32:37 scheduler thread start
+2017-07-11 18:32:37 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:32:37 HTTP: creating work queue of depth 16
+2017-07-11 18:32:37 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 18:32:37 HTTP: starting 4 worker threads
+2017-07-11 18:32:37 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 18:32:37 Using wallet wallet.dat
+2017-07-11 18:32:37 init message: Verifying wallet...
+2017-07-11 18:32:37 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 18:32:37 Cache configuration:
+2017-07-11 18:32:37 * Using 2.0MiB for block index database
+2017-07-11 18:32:37 * Using 8.0MiB for chain state database
+2017-07-11 18:32:37 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 18:32:37 init message: Loading block index...
+2017-07-11 18:32:37 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 18:32:37 Opened LevelDB successfully
+2017-07-11 18:32:37 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 18:32:37 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 18:32:37 Opened LevelDB successfully
+2017-07-11 18:32:37 Wrote new obfuscate key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 18:32:37 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 18:32:37 LoadBlockIndexDB: last block file = 0
+2017-07-11 18:32:37 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=0, size=0, heights=0...0, time=1970-01-01...1970-01-01)
+2017-07-11 18:32:37 Checking all blk files are present...
+2017-07-11 18:32:37 LoadBlockIndexDB: transaction index disabled
+2017-07-11 18:32:37 Initializing databases...
+2017-07-11 18:32:37 Pre-allocating up to position 0x1000000 in blk00000.dat
+2017-07-11 18:32:37 init message: Verifying blocks...
+2017-07-11 18:32:37  block index             339ms
+2017-07-11 18:32:37 init message: Loading wallet...
+2017-07-11 18:32:37 nFileVersion = 140200
+2017-07-11 18:32:37 Keys: 0 plaintext, 0 encrypted, 0 w/ metadata, 0 total
+2017-07-11 18:32:37 Performing wallet upgrade to 60000
+2017-07-11 18:32:38 keypool added key 1, size=1
+2017-07-11 18:32:38 keypool added key 2, size=2
+2017-07-11 18:32:38 keypool added key 3, size=3
+2017-07-11 18:32:38 keypool added key 4, size=4
+2017-07-11 18:32:38 keypool added key 5, size=5
+2017-07-11 18:32:38 keypool added key 6, size=6
+2017-07-11 18:32:39 keypool added key 7, size=7
+2017-07-11 18:32:39 keypool added key 8, size=8
+2017-07-11 18:32:39 keypool added key 9, size=9
+2017-07-11 18:32:39 keypool added key 10, size=10
+2017-07-11 18:32:39 keypool added key 11, size=11
+2017-07-11 18:32:39 keypool added key 12, size=12
+2017-07-11 18:32:39 keypool added key 13, size=13
+2017-07-11 18:32:40 keypool added key 14, size=14
+2017-07-11 18:32:40 keypool added key 15, size=15
+2017-07-11 18:32:40 keypool added key 16, size=16
+2017-07-11 18:32:40 keypool added key 17, size=17
+2017-07-11 18:32:40 keypool added key 18, size=18
+2017-07-11 18:32:40 keypool added key 19, size=19
+2017-07-11 18:32:40 keypool added key 20, size=20
+2017-07-11 18:32:40 keypool added key 21, size=21
+2017-07-11 18:32:41 keypool added key 22, size=22
+2017-07-11 18:32:41 keypool added key 23, size=23
+2017-07-11 18:32:41 keypool added key 24, size=24
+2017-07-11 18:32:41 keypool added key 25, size=25
+2017-07-11 18:32:41 keypool added key 26, size=26
+2017-07-11 18:32:41 keypool added key 27, size=27
+2017-07-11 18:32:41 keypool added key 28, size=28
+2017-07-11 18:32:41 keypool added key 29, size=29
+2017-07-11 18:32:42 keypool added key 30, size=30
+2017-07-11 18:32:42 keypool added key 31, size=31
+2017-07-11 18:32:42 keypool added key 32, size=32
+2017-07-11 18:32:42 keypool added key 33, size=33
+2017-07-11 18:32:42 keypool added key 34, size=34
+2017-07-11 18:32:42 keypool added key 35, size=35
+2017-07-11 18:32:42 keypool added key 36, size=36
+2017-07-11 18:32:42 keypool added key 37, size=37
+2017-07-11 18:32:43 keypool added key 38, size=38
+2017-07-11 18:32:43 keypool added key 39, size=39
+2017-07-11 18:32:43 keypool added key 40, size=40
+2017-07-11 18:32:43 keypool added key 41, size=41
+2017-07-11 18:32:43 keypool added key 42, size=42
+2017-07-11 18:32:43 keypool added key 43, size=43
+2017-07-11 18:32:43 keypool added key 44, size=44
+2017-07-11 18:32:43 keypool added key 45, size=45
+2017-07-11 18:32:44 keypool added key 46, size=46
+2017-07-11 18:32:44 keypool added key 47, size=47
+2017-07-11 18:32:44 keypool added key 48, size=48
+2017-07-11 18:32:44 keypool added key 49, size=49
+2017-07-11 18:32:44 keypool added key 50, size=50
+2017-07-11 18:32:44 keypool added key 51, size=51
+2017-07-11 18:32:44 keypool added key 52, size=52
+2017-07-11 18:32:44 keypool added key 53, size=53
+2017-07-11 18:32:45 keypool added key 54, size=54
+2017-07-11 18:32:45 keypool added key 55, size=55
+2017-07-11 18:32:45 keypool added key 56, size=56
+2017-07-11 18:32:45 keypool added key 57, size=57
+2017-07-11 18:32:45 keypool added key 58, size=58
+2017-07-11 18:32:45 keypool added key 59, size=59
+2017-07-11 18:32:45 keypool added key 60, size=60
+2017-07-11 18:32:45 keypool added key 61, size=61
+2017-07-11 18:32:46 keypool added key 62, size=62
+2017-07-11 18:32:46 keypool added key 63, size=63
+2017-07-11 18:32:46 keypool added key 64, size=64
+2017-07-11 18:32:46 keypool added key 65, size=65
+2017-07-11 18:32:46 keypool added key 66, size=66
+2017-07-11 18:32:46 keypool added key 67, size=67
+2017-07-11 18:32:46 keypool added key 68, size=68
+2017-07-11 18:32:46 keypool added key 69, size=69
+2017-07-11 18:32:46 keypool added key 70, size=70
+2017-07-11 18:32:47 keypool added key 71, size=71
+2017-07-11 18:32:47 keypool added key 72, size=72
+2017-07-11 18:32:47 keypool added key 73, size=73
+2017-07-11 18:32:47 keypool added key 74, size=74
+2017-07-11 18:32:47 keypool added key 75, size=75
+2017-07-11 18:32:47 keypool added key 76, size=76
+2017-07-11 18:32:47 keypool added key 77, size=77
+2017-07-11 18:32:47 keypool added key 78, size=78
+2017-07-11 18:32:47 keypool added key 79, size=79
+2017-07-11 18:32:48 keypool added key 80, size=80
+2017-07-11 18:32:48 keypool added key 81, size=81
+2017-07-11 18:32:48 keypool added key 82, size=82
+2017-07-11 18:32:48 keypool added key 83, size=83
+2017-07-11 18:32:48 keypool added key 84, size=84
+2017-07-11 18:32:48 keypool added key 85, size=85
+2017-07-11 18:32:48 keypool added key 86, size=86
+2017-07-11 18:32:48 keypool added key 87, size=87
+2017-07-11 18:32:48 keypool added key 88, size=88
+2017-07-11 18:32:49 keypool added key 89, size=89
+2017-07-11 18:32:49 keypool added key 90, size=90
+2017-07-11 18:32:49 keypool added key 91, size=91
+2017-07-11 18:32:49 keypool added key 92, size=92
+2017-07-11 18:32:49 keypool added key 93, size=93
+2017-07-11 18:32:49 keypool added key 94, size=94
+2017-07-11 18:32:49 keypool added key 95, size=95
+2017-07-11 18:32:49 keypool added key 96, size=96
+2017-07-11 18:32:50 keypool added key 97, size=97
+2017-07-11 18:32:50 keypool added key 98, size=98
+2017-07-11 18:32:50 keypool added key 99, size=99
+2017-07-11 18:32:50 keypool added key 100, size=100
+2017-07-11 18:32:50 keypool added key 101, size=101
+2017-07-11 18:32:50 keypool reserve 1
+2017-07-11 18:32:50 keypool keep 1
+2017-07-11 18:32:50  wallet                13181ms
+2017-07-11 18:32:50 setKeyPool.size() = 100
+2017-07-11 18:32:50 mapWallet.size() = 0
+2017-07-11 18:32:50 mapAddressBook.size() = 1
+2017-07-11 18:32:50 UpdateTip: new best=0f9188f13cb7b2c71f2a335e3a4fc328bf5beb436012afca590b1a11466e2206 height=0 version=0x00000001 log2_work=1 tx=1 date='2011-02-02 23:16:42' progress=1.000000 cache=0.0MiB(0tx)
+2017-07-11 18:32:50 mapBlockIndex.size() = 1
+2017-07-11 18:32:50 nBestHeight = 0
+2017-07-11 18:32:50 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 18:32:50 init message: Loading addresses...
+2017-07-11 18:32:50 Loaded 0 addresses from peers.dat  1ms
+2017-07-11 18:32:50 init message: Loading banlist...
+2017-07-11 18:32:50 ERROR: Read: Failed to open file /data/opt/bitcoin-testnet/2/regtest/banlist.dat
+2017-07-11 18:32:50 Invalid or missing banlist.dat; recreating
+2017-07-11 18:32:50 init message: Starting network threads...
+2017-07-11 18:32:50 net thread start
+2017-07-11 18:32:50 DNS seeding disabled
+2017-07-11 18:32:50 init message: Done loading
+2017-07-11 18:32:50 opencon thread start
+2017-07-11 18:32:50 msghand thread start
+2017-07-11 18:32:50 addcon thread start
+2017-07-11 18:32:50 receive version message: /Satoshi:0.14.2/: version 70015, blocks=0, us=[::]:0, peer=0
+2017-07-11 18:33:29 Pre-allocating up to position 0x100000 in rev00000.dat
+2017-07-11 18:33:29 UpdateTip: new best=699f62c1f4c8656cb7f5eb1963063d4590d194d855a8b764fc11c5c07c901fb0 height=1 version=0x20000000 log2_work=2 tx=2 date='2017-07-11 18:33:29' progress=1.000000 cache=0.0MiB(1tx)
+2017-07-11 18:33:29 UpdateTip: new best=0117a94be4bb864f58d65f71c6b810e522fb17306036c88278ca964ff5d65ffc height=2 version=0x20000000 log2_work=2.5849625 tx=3 date='2017-07-11 18:33:30' progress=1.000000 cache=0.0MiB(2tx)
+2017-07-11 18:33:29 UpdateTip: new best=0e404c00b5ecf321283bc26b08dee54d6eb118f379dbf59b98366f9ebc928779 height=3 version=0x20000000 log2_work=3 tx=4 date='2017-07-11 18:33:30' progress=1.000000 cache=0.0MiB(3tx)
+2017-07-11 18:33:29 UpdateTip: new best=106598289eb5d4cf068f28feefaac018660b0ed4d9eec63ded7d21a5e5712a6e height=4 version=0x20000000 log2_work=3.3219281 tx=5 date='2017-07-11 18:33:31' progress=1.000000 cache=0.0MiB(4tx)
+2017-07-11 18:33:29 UpdateTip: new best=268c44235de2133ec565e73107858c9ea38b547a944b6b28f055264a4f2e1d71 height=5 version=0x20000000 log2_work=3.5849625 tx=6 date='2017-07-11 18:33:31' progress=1.000000 cache=0.0MiB(5tx)
+2017-07-11 18:33:29 UpdateTip: new best=2a884fe3592d58d33414e0be6dd2be6bf65a6c2e3c37db2875f4706ea8fcd103 height=6 version=0x20000000 log2_work=3.8073549 tx=7 date='2017-07-11 18:33:31' progress=1.000000 cache=0.0MiB(6tx)
+2017-07-11 18:33:29 UpdateTip: new best=3509c156cd44fb0d8b2eb6f9f8f50e44acff500e2e51d3468d53d784320d1e08 height=7 version=0x20000000 log2_work=4 tx=8 date='2017-07-11 18:33:31' progress=1.000000 cache=0.0MiB(7tx)
+2017-07-11 18:33:29 UpdateTip: new best=2ed58a2d614e2b401b6c98e50173773f44759bfd92cce9a74d3479b43e550321 height=8 version=0x20000000 log2_work=4.169925 tx=9 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(8tx)
+2017-07-11 18:33:29 UpdateTip: new best=272bfc7f6da3330195181b742269cd9aaa78c83474bfe408fdfc5918d6dd14d3 height=9 version=0x20000000 log2_work=4.3219281 tx=10 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(9tx)
+2017-07-11 18:33:29 UpdateTip: new best=4e7d88d9711e4c54ea35041caf317464d25a8cc29f22095f11e8dc7d156dc760 height=10 version=0x20000000 log2_work=4.4594316 tx=11 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(10tx)
+2017-07-11 18:33:29 UpdateTip: new best=3613512e01fc0c9d09e9402cccc222e7918e40ed2e9abd087250e77a415a92e4 height=11 version=0x20000000 log2_work=4.5849625 tx=12 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(11tx)
+2017-07-11 18:33:29 UpdateTip: new best=38885474efb327921678502d2714355e308a10ceda9390936c48f1bf28a7a4de height=12 version=0x20000000 log2_work=4.7004397 tx=13 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(12tx)
+2017-07-11 18:33:29 UpdateTip: new best=63eb835b71326b220ef01d419421a025401d9ad2ec7f18fef9036ecdc9e96964 height=13 version=0x20000000 log2_work=4.8073549 tx=14 date='2017-07-11 18:33:32' progress=1.000000 cache=0.0MiB(13tx)
+2017-07-11 18:33:29 UpdateTip: new best=10d89b06b311fc09d8f917b37a0b60c3622ac4f7c9b890af8d4b1468db9d67e6 height=14 version=0x20000000 log2_work=4.9068906 tx=15 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(14tx)
+2017-07-11 18:33:29 UpdateTip: new best=0b72f616b22b9ee460dbba614a18b8434f4728424fa6b8af3fc9dadb1d255d6f height=15 version=0x20000000 log2_work=5 tx=16 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(15tx)
+2017-07-11 18:33:29 UpdateTip: new best=7a69993caa09acebaf9b3b7109481934a41e94ed17272f0600e29bd3a5e1bfc9 height=16 version=0x20000000 log2_work=5.0874628 tx=17 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(16tx)
+2017-07-11 18:33:29 UpdateTip: new best=554866ed6dd3f309d181be6cff738051fc735077be020b0e921117962cff12b0 height=17 version=0x20000000 log2_work=5.169925 tx=18 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(17tx)
+2017-07-11 18:33:29 UpdateTip: new best=6fa9c5c8516d198c6c7a214bf8281ff58f5f16de2a7c9e909f93851a7c4b226f height=18 version=0x20000000 log2_work=5.2479275 tx=19 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(18tx)
+2017-07-11 18:33:29 UpdateTip: new best=5f8b5f08358aa70e272c121985bfe8a0d4ccee07e7c319fa7a72f5d9a672022e height=19 version=0x20000000 log2_work=5.3219281 tx=20 date='2017-07-11 18:33:33' progress=1.000000 cache=0.0MiB(19tx)
+2017-07-11 18:33:29 UpdateTip: new best=5c76fc5b759d51936b8077a37732cd36e64856292ff35e9486e8393403d4c69a height=20 version=0x20000000 log2_work=5.3923174 tx=21 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(20tx)
+2017-07-11 18:33:29 UpdateTip: new best=37a529789870dd17c555ba11908261fb97f20c74402ec78a5c5818e20b9d8c73 height=21 version=0x20000000 log2_work=5.4594316 tx=22 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(21tx)
+2017-07-11 18:33:29 UpdateTip: new best=77661256e1853a26bd7e4f66e0705bd883bf164445ac2a575b1073cf4060d077 height=22 version=0x20000000 log2_work=5.523562 tx=23 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(22tx)
+2017-07-11 18:33:29 UpdateTip: new best=3826452dad1b2d1eb6123fc9ad8b714f9dc2d06292a54645f90dcea8c7954b5f height=23 version=0x20000000 log2_work=5.5849625 tx=24 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(23tx)
+2017-07-11 18:33:29 UpdateTip: new best=3570504f466b57b5ca3eacc900e97cfcbe669db99ccb9be6ddd1fb4945946d6c height=24 version=0x20000000 log2_work=5.6438562 tx=25 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(24tx)
+2017-07-11 18:33:29 UpdateTip: new best=4edafc9ff07a7ac39fec21006661db9415ebb3013cbe8e80aac047bedf376f65 height=25 version=0x20000000 log2_work=5.7004397 tx=26 date='2017-07-11 18:33:34' progress=1.000000 cache=0.0MiB(25tx)
+2017-07-11 18:33:29 UpdateTip: new best=2dc95d9ca3da2453e556ad85b4feaa6187e68ef1ce278a77c5081ed52581ed28 height=26 version=0x20000000 log2_work=5.7548875 tx=27 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(26tx)
+2017-07-11 18:33:29 UpdateTip: new best=7d6833f5e26fa473e62711429f8a85e969ecf9130aecd2e9bea02b25faa0e475 height=27 version=0x20000000 log2_work=5.8073549 tx=28 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(27tx)
+2017-07-11 18:33:29 UpdateTip: new best=152e036f6d2c61b7fb0eeff6691315f63c13851b8b900da5380db15ae6c0af15 height=28 version=0x20000000 log2_work=5.857981 tx=29 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(28tx)
+2017-07-11 18:33:29 UpdateTip: new best=40b75df3075af2059afed3f01f2a47312e4df191a631e2a4c4505cd577bdc0d0 height=29 version=0x20000000 log2_work=5.9068906 tx=30 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(29tx)
+2017-07-11 18:33:29 UpdateTip: new best=629d63778b449e7d2631232fcc6c9e66d7020cdaf088790fdbbd12ced4803d07 height=30 version=0x20000000 log2_work=5.9541963 tx=31 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(30tx)
+2017-07-11 18:33:29 UpdateTip: new best=7a0fa89200d2ab75cc3efe167d0be9423f3fb916e931ceb2b04f3963fc55a972 height=31 version=0x20000000 log2_work=6 tx=32 date='2017-07-11 18:33:35' progress=1.000000 cache=0.0MiB(31tx)
+2017-07-11 18:33:29 UpdateTip: new best=66c74b86c1b61cb009692b5257f0326a388fd6a2dadf8009587e7a236237861a height=32 version=0x20000000 log2_work=6.0443941 tx=33 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(32tx)
+2017-07-11 18:33:29 UpdateTip: new best=07b93fa82bb421a8db7bfdb0d248575b442551d4056b0bc2a545aad801ee568f height=33 version=0x20000000 log2_work=6.0874628 tx=34 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(33tx)
+2017-07-11 18:33:29 UpdateTip: new best=6e9067e24e3c1de9a42a6ed9fe371729c5e5ae36cab947c93743e8cf3e1b397c height=34 version=0x20000000 log2_work=6.129283 tx=35 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(34tx)
+2017-07-11 18:33:29 UpdateTip: new best=0a09c8015b95a85f2570f9a163bb05d823862176477ca88dc83fd7d4b6b94a83 height=35 version=0x20000000 log2_work=6.169925 tx=36 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(35tx)
+2017-07-11 18:33:29 UpdateTip: new best=2441059c3a27230285f6258d05b7f703f42ac06486f0e7aad8435ceaef1086fd height=36 version=0x20000000 log2_work=6.2094534 tx=37 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(36tx)
+2017-07-11 18:33:29 UpdateTip: new best=432c28052c1b9e04158cc985e8026384f8265076b354341a37a9f0decc8cdf6b height=37 version=0x20000000 log2_work=6.2479275 tx=38 date='2017-07-11 18:33:36' progress=1.000000 cache=0.0MiB(37tx)
+2017-07-11 18:33:29 UpdateTip: new best=653ca8f0d30b2b452ae125706ae59b20e24f1b27785140086873c77681f94247 height=38 version=0x20000000 log2_work=6.2854022 tx=39 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(38tx)
+2017-07-11 18:33:29 UpdateTip: new best=4d70163bf9c0ac7903b723b108dd24341da4b584eb249f31f3a1ae2617711626 height=39 version=0x20000000 log2_work=6.3219281 tx=40 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(39tx)
+2017-07-11 18:33:29 UpdateTip: new best=40f89207bca0365bfa84f4071f052d9ea83ab8d576a2ba1c0fdfb4bbf3afd189 height=40 version=0x20000000 log2_work=6.357552 tx=41 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(40tx)
+2017-07-11 18:33:29 UpdateTip: new best=2f9b136eea98e51c3699741f37e1d4cc021391b19db299adaeb1c372b36296a0 height=41 version=0x20000000 log2_work=6.3923174 tx=42 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(41tx)
+2017-07-11 18:33:29 UpdateTip: new best=564f11fddd0b147bf9906ec15c4b53b36ef57a4c09574c10043af2db3fb8e826 height=42 version=0x20000000 log2_work=6.4262648 tx=43 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(42tx)
+2017-07-11 18:33:29 UpdateTip: new best=5e5be3a657b6c893c55209f7166db0f1f0017008ddbf0c36cb088209550ebada height=43 version=0x20000000 log2_work=6.4594316 tx=44 date='2017-07-11 18:33:37' progress=1.000000 cache=0.0MiB(43tx)
+2017-07-11 18:33:29 UpdateTip: new best=6f433e7a9a3798a033e8a524aeff77f5bf8ef9c3b19a85f0b3fbf70f7cd09679 height=44 version=0x20000000 log2_work=6.4918531 tx=45 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(44tx)
+2017-07-11 18:33:29 UpdateTip: new best=4ef151c723241576fc01d56105a668ef79d67bddc354a98947440f23866fedba height=45 version=0x20000000 log2_work=6.523562 tx=46 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(45tx)
+2017-07-11 18:33:29 UpdateTip: new best=16daae6bf0bf2c4ba59f4a8130831bfd2083efce0d06f15a27cd03b7ab0da582 height=46 version=0x20000000 log2_work=6.5545889 tx=47 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(46tx)
+2017-07-11 18:33:29 UpdateTip: new best=3307a568ee73b4e03ab625822dfe6559de18bcc8a81088de74f535a56ec784a4 height=47 version=0x20000000 log2_work=6.5849625 tx=48 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(47tx)
+2017-07-11 18:33:29 UpdateTip: new best=316b477f3fbc9ce5c50c890ab40d9055ba1798423a3d9379c424d1cfdc740713 height=48 version=0x20000000 log2_work=6.6147098 tx=49 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(48tx)
+2017-07-11 18:33:29 UpdateTip: new best=2d6137f2465d3c6cd364c77a9df0861d5a6d5e035b90e2ab283a29180389223a height=49 version=0x20000000 log2_work=6.6438562 tx=50 date='2017-07-11 18:33:38' progress=1.000000 cache=0.0MiB(49tx)
+2017-07-11 18:33:29 UpdateTip: new best=2aee034b2cb6ceb1118a9161238c90f511486be14c73020671c49b1dc8485d28 height=50 version=0x20000000 log2_work=6.6724253 tx=51 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(50tx)
+2017-07-11 18:33:29 UpdateTip: new best=164f158ee4d38a7c8f3eecea577a9f63fec0b54f218e72b9b06b2e95490238e5 height=51 version=0x20000000 log2_work=6.7004397 tx=52 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(51tx)
+2017-07-11 18:33:29 UpdateTip: new best=24665b0f3eb474ca8f9c91cf5416e5316c444684068faf9fbc88de191ecfb47a height=52 version=0x20000000 log2_work=6.7279205 tx=53 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(52tx)
+2017-07-11 18:33:29 UpdateTip: new best=50caf1de9c9a5e62e8ac8699f22f9f9b531bbbb7d92895f10870adc5055d007c height=53 version=0x20000000 log2_work=6.7548875 tx=54 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(53tx)
+2017-07-11 18:33:29 UpdateTip: new best=53a2d69ea4e3eb4c7ea4526814016183e26c8100644f7c8cb58e49a6b61d2562 height=54 version=0x20000000 log2_work=6.7813597 tx=55 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(54tx)
+2017-07-11 18:33:29 UpdateTip: new best=048bca63c65f9a51110f4b2e4b90927e9a2b5c088ee4df8f6c65e1f77ef652a6 height=55 version=0x20000000 log2_work=6.8073549 tx=56 date='2017-07-11 18:33:39' progress=1.000000 cache=0.0MiB(55tx)
+2017-07-11 18:33:29 UpdateTip: new best=766d6216c9e1aa34504c9fc260f6d53e194894eec88f0c3ede872407bccbe322 height=56 version=0x20000000 log2_work=6.83289 tx=57 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(56tx)
+2017-07-11 18:33:29 UpdateTip: new best=1551df9fd4f47c665fe3b8cd66e22015eca85a4601b9c7d3c6451ff7e2cfc036 height=57 version=0x20000000 log2_work=6.857981 tx=58 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(57tx)
+2017-07-11 18:33:29 UpdateTip: new best=1b0019dd74c2c926cd5ee730e2da07a45e1f6fc15f8805e17e7833ea077ef79c height=58 version=0x20000000 log2_work=6.882643 tx=59 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(58tx)
+2017-07-11 18:33:29 UpdateTip: new best=194045e892e90a05bd12ee6417be91dd48d46f4c609ee435ccf017c6813efba1 height=59 version=0x20000000 log2_work=6.9068906 tx=60 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(59tx)
+2017-07-11 18:33:29 UpdateTip: new best=319977ed9d5b1e9683a71a746f2639dbd2dae0e2e24561a0d4e17bed715325cf height=60 version=0x20000000 log2_work=6.9307373 tx=61 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(60tx)
+2017-07-11 18:33:29 UpdateTip: new best=747eb9e5c2c924a45ae58513903c71ffcee9f3ba61923843d57166dab1993083 height=61 version=0x20000000 log2_work=6.9541963 tx=62 date='2017-07-11 18:33:40' progress=1.000000 cache=0.0MiB(61tx)
+2017-07-11 18:33:29 UpdateTip: new best=3884512385c00b0073ba9daedb766db0a7cb83520f69f3ba67f27311091072c9 height=62 version=0x20000000 log2_work=6.9772799 tx=63 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(62tx)
+2017-07-11 18:33:29 UpdateTip: new best=66be9c987404438b8e217ca0d2bcac9675d3ebd6a6e030f781f65efbcccad0e6 height=63 version=0x20000000 log2_work=7 tx=64 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(63tx)
+2017-07-11 18:33:29 UpdateTip: new best=08a8480354c6b2676fa9f640976193ad1e2efddf738bd7aec43c0fe2be4f024c height=64 version=0x20000000 log2_work=7.0223678 tx=65 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(64tx)
+2017-07-11 18:33:29 UpdateTip: new best=58fb3d4828cb607b3c0f0e51ca9edaf86d8a53e8fd37068872ff34b1f814a0ff height=65 version=0x20000000 log2_work=7.0443941 tx=66 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(65tx)
+2017-07-11 18:33:29 UpdateTip: new best=7dc850f3e3bba06a5b251c974d328d2addac55625d5e79d4f846a815827deb84 height=66 version=0x20000000 log2_work=7.0660892 tx=67 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(66tx)
+2017-07-11 18:33:29 UpdateTip: new best=13c284ef1678beff8eec63e7add167e6f7072d6ddcbd6a2b22d674b2d743e22d height=67 version=0x20000000 log2_work=7.0874628 tx=68 date='2017-07-11 18:33:41' progress=1.000000 cache=0.0MiB(67tx)
+2017-07-11 18:33:29 UpdateTip: new best=64251af01f8f7ef7cdef454ca5a342e31f71200c3b1c284b78a0a1b349bb8cbd height=68 version=0x20000000 log2_work=7.1085245 tx=69 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(68tx)
+2017-07-11 18:33:29 UpdateTip: new best=1cd29f1f24aa176f95ef7ce9c21e69a7d911c5f652ee9727af1e561c8f0f9c38 height=69 version=0x20000000 log2_work=7.129283 tx=70 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(69tx)
+2017-07-11 18:33:29 UpdateTip: new best=0d6d38ab07aa92f40282a02c08bba3484307e8b3b8098cc77c33d4ed2120e0b6 height=70 version=0x20000000 log2_work=7.1497471 tx=71 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(70tx)
+2017-07-11 18:33:29 UpdateTip: new best=5b309b5d282b55bd7f2481790f5782ec292083ee3a2390db8d3617e148a92494 height=71 version=0x20000000 log2_work=7.169925 tx=72 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(71tx)
+2017-07-11 18:33:29 UpdateTip: new best=631649e363a552af5271284c04cad18e646467c5394500085cd75b2af66d5c22 height=72 version=0x20000000 log2_work=7.1898246 tx=73 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(72tx)
+2017-07-11 18:33:29 UpdateTip: new best=2378aa991d6eec52fb70fb9c81f0fbcfaaca3c00351d96116856c9b4a3b09b0b height=73 version=0x20000000 log2_work=7.2094534 tx=74 date='2017-07-11 18:33:42' progress=1.000000 cache=0.0MiB(73tx)
+2017-07-11 18:33:29 UpdateTip: new best=6620d354148d7e96c2ef5be4cecab33e9b7066555ca48888a10fc24808043892 height=74 version=0x20000000 log2_work=7.2288187 tx=75 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(74tx)
+2017-07-11 18:33:29 UpdateTip: new best=1a8ef8ee3c2f0397966e701c8efaa2c95deac6d8ecd7a298e552d6ea82e98f85 height=75 version=0x20000000 log2_work=7.2479275 tx=76 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(75tx)
+2017-07-11 18:33:29 UpdateTip: new best=15cf52bf0027f91a4b9a67f641b3a9e4cbf26f8b6dea1fecf350d2ade6e39313 height=76 version=0x20000000 log2_work=7.2667865 tx=77 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(76tx)
+2017-07-11 18:33:29 UpdateTip: new best=69f493c94bdf1b9d4bbbb8fef01925d44bbf6d6ef9fd8aecb5de8c2f7e634356 height=77 version=0x20000000 log2_work=7.2854022 tx=78 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(77tx)
+2017-07-11 18:33:29 UpdateTip: new best=22c543b65e50bb17fafe8fd20a712ec5a3478b3103a9fe975f171a341e03e47f height=78 version=0x20000000 log2_work=7.3037807 tx=79 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(78tx)
+2017-07-11 18:33:29 UpdateTip: new best=2f222433ee91ee09e4628dc45f061eb49a5f3f415e3e1b045cec6becaf186f59 height=79 version=0x20000000 log2_work=7.3219281 tx=80 date='2017-07-11 18:33:43' progress=1.000000 cache=0.0MiB(79tx)
+2017-07-11 18:33:29 UpdateTip: new best=72095cc4bbb25bbe7a69e200ec4dd35136168eaf4c4dbd0048ea0aa5d7fed663 height=80 version=0x20000000 log2_work=7.33985 tx=81 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(80tx)
+2017-07-11 18:33:29 UpdateTip: new best=3e41ec59be777d9e1ddb8f89da6f5685bc16e757e403abf3b6498acaa05e672a height=81 version=0x20000000 log2_work=7.357552 tx=82 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(81tx)
+2017-07-11 18:33:29 UpdateTip: new best=352a0b95ac9997c74b1e8ca865b7ae17e54f5b7f4e6fbc759eefe23ffdd7ab79 height=82 version=0x20000000 log2_work=7.3750394 tx=83 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(82tx)
+2017-07-11 18:33:29 UpdateTip: new best=1c1a7343363ca2ee6f2d1d405c236a04937910bcc1d03cb0dc3796a158b0479e height=83 version=0x20000000 log2_work=7.3923174 tx=84 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(83tx)
+2017-07-11 18:33:29 UpdateTip: new best=45ebf61902d866a37fabfe032ce0d33e262bf24d1ba5773da3fa6ce55deb17f9 height=84 version=0x20000000 log2_work=7.4093909 tx=85 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(84tx)
+2017-07-11 18:33:29 UpdateTip: new best=1fab960dab8447cda21927ba8f4fc6b49f54fc5bce2e7ad8bfc709f91c6e30aa height=85 version=0x20000000 log2_work=7.4262648 tx=86 date='2017-07-11 18:33:44' progress=1.000000 cache=0.0MiB(85tx)
+2017-07-11 18:33:29 UpdateTip: new best=7d1ec9aa399c55c655cb9df894b0b7456dc5954d2ef6ccd96767cb64666a488c height=86 version=0x20000000 log2_work=7.4429435 tx=87 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(86tx)
+2017-07-11 18:33:29 UpdateTip: new best=275919e0162f9088945e682c60edaf17d3a9a2cbf717010cc3b0cbccac1b2dc1 height=87 version=0x20000000 log2_work=7.4594316 tx=88 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(87tx)
+2017-07-11 18:33:29 UpdateTip: new best=36dad86ee8cd17ed40459a1135e05307a0801f41daff82e9eeab0414c3c1d9d5 height=88 version=0x20000000 log2_work=7.4757334 tx=89 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(88tx)
+2017-07-11 18:33:29 UpdateTip: new best=371fe96326718d0d444dc49c294984b87b709e70602f13970f07b9dcfc0e4a7a height=89 version=0x20000000 log2_work=7.4918531 tx=90 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(89tx)
+2017-07-11 18:33:29 UpdateTip: new best=644cb5bbda8f6cdb1284af8a65a8726a19b7871b48eae40a23788da638d8ba5c height=90 version=0x20000000 log2_work=7.5077946 tx=91 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(90tx)
+2017-07-11 18:33:29 UpdateTip: new best=1c703d55ad9dbb67c35dee2a542b17e3c452fee25ad333e17db207e0d9ca3171 height=91 version=0x20000000 log2_work=7.523562 tx=92 date='2017-07-11 18:33:45' progress=1.000000 cache=0.0MiB(91tx)
+2017-07-11 18:33:29 UpdateTip: new best=67bb87796aedfde55317c3aa3dea4a2f14b78af57b74fabc372effdebc000856 height=92 version=0x20000000 log2_work=7.5391588 tx=93 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(92tx)
+2017-07-11 18:33:29 UpdateTip: new best=131d5a8771e716c10430c28383caca53c313d490a2436b11766e47d82fe61cea height=93 version=0x20000000 log2_work=7.5545889 tx=94 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(93tx)
+2017-07-11 18:33:29 UpdateTip: new best=7000cdc43821c8b1562562cd7b017d5e6658c67cee0b85dbc4b875df12fb3dcd height=94 version=0x20000000 log2_work=7.5698556 tx=95 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(94tx)
+2017-07-11 18:33:29 UpdateTip: new best=7f4347d9b1a261154f9546bdfab2b966976becf26a472da1448a1caebe50c2b7 height=95 version=0x20000000 log2_work=7.5849625 tx=96 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(95tx)
+2017-07-11 18:33:29 UpdateTip: new best=1520cd423b10e2a7281b4dce39c0d9717fa0e3c0351e123615176ee1edb183d5 height=96 version=0x20000000 log2_work=7.5999128 tx=97 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(96tx)
+2017-07-11 18:33:29 UpdateTip: new best=6cd418a17685639605a687c6bdd268282fb90fe6c6c40d79812a83910d2317db height=97 version=0x20000000 log2_work=7.6147098 tx=98 date='2017-07-11 18:33:46' progress=1.000000 cache=0.0MiB(97tx)
+2017-07-11 18:33:29 UpdateTip: new best=18f2553d3ee903bc70bf42be273125e653e7aa956976316fe7b8f35b31eb3000 height=98 version=0x20000000 log2_work=7.6293566 tx=99 date='2017-07-11 18:33:47' progress=1.000000 cache=0.0MiB(98tx)
+2017-07-11 18:33:29 UpdateTip: new best=4c88a44c4552e471eaa7988b3a7ab9e0be8dcbb2f7810ab37ef78bea94514beb height=99 version=0x20000000 log2_work=7.6438562 tx=100 date='2017-07-11 18:33:47' progress=1.000000 cache=0.0MiB(99tx)
+2017-07-11 18:33:29 UpdateTip: new best=3a765828cdbe84b53747d343a2e88a49c10b9d40b16f7da1357dd04cb05d18f2 height=100 version=0x20000000 log2_work=7.6582115 tx=101 date='2017-07-11 18:33:47' progress=1.000000 cache=0.0MiB(100tx)
+2017-07-11 18:33:29 UpdateTip: new best=4aa470c3bdcac4a00b8b8bd468e3c9d9447258dd2083824d98aedf9fbce9205e height=101 version=0x20000000 log2_work=7.6724253 tx=102 date='2017-07-11 18:33:47' progress=1.000000 cache=0.0MiB(101tx)
+2017-07-11 18:34:53 keypool added key 102, size=101
+2017-07-11 18:34:53 keypool reserve 2
+2017-07-11 18:34:54 keypool keep 2
+2017-07-11 18:35:14 AddToWallet 7bb03d1f9c94c02dcf265e7c54562816e15dff6cf0957b3bce714733a38d03bb  new
+2017-07-11 18:35:39 UpdateTip: new best=5c90fe1739534b03219d56ed7afd47b03c64eac62f10a2fc4515e6dd75229d31 height=102 version=0x20000000 log2_work=7.6865005 tx=104 date='2017-07-11 18:35:39' progress=1.000000 cache=0.0MiB(103tx)
+2017-07-11 18:35:39 AddToWallet 7bb03d1f9c94c02dcf265e7c54562816e15dff6cf0957b3bce714733a38d03bb  update
+2017-07-11 18:37:30 keypool added key 103, size=101
+2017-07-11 18:37:30 keypool reserve 3
+2017-07-11 18:37:30 CommitTransaction:
+CTransaction(hash=2a4b88a1ca, ver=2, vin.size=1, vout.size=2, nLockTime=102)
+    CTxIn(COutPoint(7bb03d1f9c, 0), scriptSig=48304502210083522b2bf69d, nSequence=4294967294)
+    CScriptWitness()
+    CTxOut(nValue=0.99995480, scriptPubKey=76a914006490b9733a7fda916ae181)
+    CTxOut(nValue=9.00000000, scriptPubKey=76a914ac1d25a341396498f354aed3)
+2017-07-11 18:37:30 keypool keep 3
+2017-07-11 18:37:30 AddToWallet 2a4b88a1cac39474a3950acdd186177ae4f507d7038f8a1ede9ae395e4c241da  new
+2017-07-11 18:37:31 AddToWallet 2a4b88a1cac39474a3950acdd186177ae4f507d7038f8a1ede9ae395e4c241da  
+2017-07-11 18:37:31 Relaying wtx 2a4b88a1cac39474a3950acdd186177ae4f507d7038f8a1ede9ae395e4c241da
+2017-07-11 18:37:48 UpdateTip: new best=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 version=0x20000000 log2_work=7.7004397 tx=106 date='2017-07-11 18:37:48' progress=1.000000 cache=0.0MiB(105tx)
+2017-07-11 18:37:48 AddToWallet 2a4b88a1cac39474a3950acdd186177ae4f507d7038f8a1ede9ae395e4c241da  update
+2017-07-11 18:54:01 opencon thread exit
+2017-07-11 18:54:01 scheduler thread interrupt
+2017-07-11 18:54:01 addcon thread exit
+2017-07-11 18:54:01 Shutdown: In progress...
+2017-07-11 18:54:01 net thread exit
+2017-07-11 18:54:01 msghand thread exit
+2017-07-11 18:54:01 Dumped mempool: 3e-06s to copy, 0.012775s to dump
+2017-07-11 18:54:02 Shutdown: done
+2017-07-11 18:54:13 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:54:13 Bitcoin version v0.14.2
+2017-07-11 18:54:13 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:54:13 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:54:13 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:54:14 Validating signatures for all blocks.
+2017-07-11 18:54:14 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:54:14 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:54:14 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:54:14 Using at most 125 automatic connections (9472 file descriptors available)
+2017-07-11 18:54:14 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:54:14 Using 2 threads for script verification
+2017-07-11 18:54:14 scheduler thread start
+2017-07-11 18:54:14 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:54:14 HTTP: creating work queue of depth 16
+2017-07-11 18:54:14 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 18:54:14 HTTP: starting 4 worker threads
+2017-07-11 18:54:14 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 18:54:14 Using wallet wallet.dat
+2017-07-11 18:54:14 init message: Verifying wallet...
+2017-07-11 18:54:14 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 18:54:14 Cache configuration:
+2017-07-11 18:54:14 * Using 2.0MiB for block index database
+2017-07-11 18:54:14 * Using 8.0MiB for chain state database
+2017-07-11 18:54:14 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 18:54:14 init message: Loading block index...
+2017-07-11 18:54:14 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 18:54:14 Opened LevelDB successfully
+2017-07-11 18:54:14 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 18:54:14 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 18:54:14 Opened LevelDB successfully
+2017-07-11 18:54:14 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 18:54:14 LoadBlockIndexDB: last block file = 0
+2017-07-11 18:54:14 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-11 18:54:14 Checking all blk files are present...
+2017-07-11 18:54:14 LoadBlockIndexDB: transaction index disabled
+2017-07-11 18:54:14 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-11 18:54:14 init message: Rewinding blocks...
+2017-07-11 18:54:14 init message: Verifying blocks...
+2017-07-11 18:54:14 Verifying last 6 blocks at level 3
+2017-07-11 18:54:14 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-11 18:54:14 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-11 18:54:14  block index             218ms
+2017-07-11 18:54:14 init message: Loading wallet...
+2017-07-11 18:54:14 nFileVersion = 140200
+2017-07-11 18:54:14 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-11 18:54:15  wallet                   77ms
+2017-07-11 18:54:15 setKeyPool.size() = 100
+2017-07-11 18:54:15 mapWallet.size() = 2
+2017-07-11 18:54:15 mapAddressBook.size() = 2
+2017-07-11 18:54:15 mapBlockIndex.size() = 104
+2017-07-11 18:54:15 nBestHeight = 103
+2017-07-11 18:54:15 init message: Loading addresses...
+2017-07-11 18:54:15 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 18:54:15 Loaded 0 addresses from peers.dat  6ms
+2017-07-11 18:54:15 init message: Loading banlist...
+2017-07-11 18:54:15 init message: Starting network threads...
+2017-07-11 18:54:15 DNS seeding disabled
+2017-07-11 18:54:15 net thread start
+2017-07-11 18:54:15 addcon thread start
+2017-07-11 18:54:15 opencon thread start
+2017-07-11 18:54:15 init message: Done loading
+2017-07-11 18:54:15 msghand thread start
+2017-07-11 18:54:15 GUI: Platform customization: "macosx"
+2017-07-11 18:54:15 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-11 18:54:15 GUI: PaymentServer::LoadRootCAs: Loaded  168  root certificates
+2017-07-11 18:56:09 opencon thread exit
+2017-07-11 18:56:09 addcon thread exit
+2017-07-11 18:56:09 net thread exit
+2017-07-11 18:56:09 scheduler thread interrupt
+2017-07-11 18:56:09 Shutdown: In progress...
+2017-07-11 18:56:09 msghand thread exit
+2017-07-11 18:56:09 Dumped mempool: 0.00033s to copy, 0.014166s to dump
+2017-07-11 18:56:09 Shutdown: done
+2017-07-11 18:56:18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 18:56:18 Bitcoin version v0.14.2
+2017-07-11 18:56:18 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 18:56:18 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 18:56:18 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 18:56:18 Validating signatures for all blocks.
+2017-07-11 18:56:18 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 18:56:18 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 18:56:18 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 18:56:18 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 18:56:18 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 18:56:18 Using 2 threads for script verification
+2017-07-11 18:56:18 scheduler thread start
+2017-07-11 18:56:18 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 18:56:18 HTTP: creating work queue of depth 16
+2017-07-11 18:56:18 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 18:56:18 HTTP: starting 4 worker threads
+2017-07-11 18:56:18 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 18:56:18 Using wallet wallet.dat
+2017-07-11 18:56:18 init message: Verifying wallet...
+2017-07-11 18:56:18 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 18:56:18 Cache configuration:
+2017-07-11 18:56:18 * Using 2.0MiB for block index database
+2017-07-11 18:56:18 * Using 8.0MiB for chain state database
+2017-07-11 18:56:18 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 18:56:18 init message: Loading block index...
+2017-07-11 18:56:18 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 18:56:18 Opened LevelDB successfully
+2017-07-11 18:56:18 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 18:56:18 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 18:56:18 Opened LevelDB successfully
+2017-07-11 18:56:18 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 18:56:18 LoadBlockIndexDB: last block file = 0
+2017-07-11 18:56:18 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-11 18:56:18 Checking all blk files are present...
+2017-07-11 18:56:18 LoadBlockIndexDB: transaction index disabled
+2017-07-11 18:56:18 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-11 18:56:18 init message: Rewinding blocks...
+2017-07-11 18:56:18 init message: Verifying blocks...
+2017-07-11 18:56:18 Verifying last 6 blocks at level 3
+2017-07-11 18:56:18 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-11 18:56:18 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-11 18:56:18  block index             242ms
+2017-07-11 18:56:18 init message: Loading wallet...
+2017-07-11 18:56:18 nFileVersion = 140200
+2017-07-11 18:56:18 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-11 18:56:18  wallet                   59ms
+2017-07-11 18:56:18 setKeyPool.size() = 100
+2017-07-11 18:56:18 mapWallet.size() = 2
+2017-07-11 18:56:18 mapAddressBook.size() = 2
+2017-07-11 18:56:18 mapBlockIndex.size() = 104
+2017-07-11 18:56:18 nBestHeight = 103
+2017-07-11 18:56:18 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 18:56:18 init message: Loading addresses...
+2017-07-11 18:56:18 Loaded 0 addresses from peers.dat  0ms
+2017-07-11 18:56:18 init message: Loading banlist...
+2017-07-11 18:56:18 init message: Starting network threads...
+2017-07-11 18:56:18 DNS seeding disabled
+2017-07-11 18:56:18 net thread start
+2017-07-11 18:56:18 opencon thread start
+2017-07-11 18:56:18 addcon thread start
+2017-07-11 18:56:18 init message: Done loading
+2017-07-11 18:56:18 msghand thread start
+2017-07-11 18:56:18 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-11 19:13:18 addcon thread exit
+2017-07-11 19:13:18 scheduler thread interrupt
+2017-07-11 19:13:18 opencon thread exit
+2017-07-11 19:13:18 Shutdown: In progress...
+2017-07-11 19:13:18 net thread exit
+2017-07-11 19:13:18 msghand thread exit
+2017-07-11 19:13:18 Dumped mempool: 8e-06s to copy, 0.026853s to dump
+2017-07-11 19:13:18 Shutdown: done
+2017-07-11 19:13:22 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 19:13:22 Bitcoin version v0.14.2
+2017-07-11 19:13:22 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 19:13:22 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 19:13:22 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 19:13:22 Validating signatures for all blocks.
+2017-07-11 19:13:22 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 19:13:22 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 19:13:22 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 19:13:22 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 19:13:22 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 19:13:22 Using 2 threads for script verification
+2017-07-11 19:13:22 scheduler thread start
+2017-07-11 19:13:22 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 19:13:22 HTTP: creating work queue of depth 16
+2017-07-11 19:13:22 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 19:13:22 HTTP: starting 4 worker threads
+2017-07-11 19:13:22 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 19:13:22 Using wallet wallet.dat
+2017-07-11 19:13:22 init message: Verifying wallet...
+2017-07-11 19:13:22 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 19:13:23 Cache configuration:
+2017-07-11 19:13:23 * Using 2.0MiB for block index database
+2017-07-11 19:13:23 * Using 8.0MiB for chain state database
+2017-07-11 19:13:23 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 19:13:23 init message: Loading block index...
+2017-07-11 19:13:23 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 19:13:23 Opened LevelDB successfully
+2017-07-11 19:13:23 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 19:13:23 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 19:13:23 Opened LevelDB successfully
+2017-07-11 19:13:23 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 19:13:23 LoadBlockIndexDB: last block file = 0
+2017-07-11 19:13:23 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-11 19:13:23 Checking all blk files are present...
+2017-07-11 19:13:23 LoadBlockIndexDB: transaction index disabled
+2017-07-11 19:13:23 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-11 19:13:23 init message: Rewinding blocks...
+2017-07-11 19:13:23 init message: Verifying blocks...
+2017-07-11 19:13:23 Verifying last 6 blocks at level 3
+2017-07-11 19:13:23 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-11 19:13:23 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-11 19:13:23  block index             203ms
+2017-07-11 19:13:23 init message: Loading wallet...
+2017-07-11 19:13:23 nFileVersion = 140200
+2017-07-11 19:13:23 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-11 19:13:23  wallet                   45ms
+2017-07-11 19:13:23 setKeyPool.size() = 100
+2017-07-11 19:13:23 mapWallet.size() = 2
+2017-07-11 19:13:23 mapAddressBook.size() = 2
+2017-07-11 19:13:23 mapBlockIndex.size() = 104
+2017-07-11 19:13:23 nBestHeight = 103
+2017-07-11 19:13:23 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 19:13:23 init message: Loading addresses...
+2017-07-11 19:13:23 Loaded 0 addresses from peers.dat  0ms
+2017-07-11 19:13:23 init message: Loading banlist...
+2017-07-11 19:13:23 init message: Starting network threads...
+2017-07-11 19:13:23 DNS seeding disabled
+2017-07-11 19:13:23 net thread start
+2017-07-11 19:13:23 msghand thread start
+2017-07-11 19:13:23 addcon thread start
+2017-07-11 19:13:23 init message: Done loading
+2017-07-11 19:13:23 opencon thread start
+2017-07-11 19:13:23 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-11 19:14:08 opencon thread exit
+2017-07-11 19:14:08 scheduler thread interrupt
+2017-07-11 19:14:08 addcon thread exit
+2017-07-11 19:14:08 Shutdown: In progress...
+2017-07-11 19:14:08 net thread exit
+2017-07-11 19:14:08 msghand thread exit
+2017-07-11 19:14:08 Dumped mempool: 7e-06s to copy, 0.023064s to dump
+2017-07-11 19:14:08 Shutdown: done
+2017-07-11 19:14:11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 19:14:11 Bitcoin version v0.14.2
+2017-07-11 19:14:11 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 19:14:11 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 19:14:11 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 19:14:11 Validating signatures for all blocks.
+2017-07-11 19:14:11 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 19:14:11 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 19:14:11 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 19:14:11 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 19:14:12 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 19:14:12 Using 2 threads for script verification
+2017-07-11 19:14:12 scheduler thread start
+2017-07-11 19:14:12 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 19:14:12 HTTP: creating work queue of depth 16
+2017-07-11 19:14:12 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 19:14:12 HTTP: starting 4 worker threads
+2017-07-11 19:14:12 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 19:14:12 Using wallet wallet.dat
+2017-07-11 19:14:12 init message: Verifying wallet...
+2017-07-11 19:14:12 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 19:14:12 Cache configuration:
+2017-07-11 19:14:12 * Using 2.0MiB for block index database
+2017-07-11 19:14:12 * Using 8.0MiB for chain state database
+2017-07-11 19:14:12 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 19:14:12 init message: Loading block index...
+2017-07-11 19:14:12 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 19:14:12 Opened LevelDB successfully
+2017-07-11 19:14:12 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 19:14:12 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 19:14:12 Opened LevelDB successfully
+2017-07-11 19:14:12 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 19:14:12 LoadBlockIndexDB: last block file = 0
+2017-07-11 19:14:12 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-11 19:14:12 Checking all blk files are present...
+2017-07-11 19:14:12 LoadBlockIndexDB: transaction index disabled
+2017-07-11 19:14:12 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-11 19:14:12 init message: Rewinding blocks...
+2017-07-11 19:14:12 init message: Verifying blocks...
+2017-07-11 19:14:12 Verifying last 6 blocks at level 3
+2017-07-11 19:14:12 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-11 19:14:12 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-11 19:14:12  block index             245ms
+2017-07-11 19:14:12 init message: Loading wallet...
+2017-07-11 19:14:12 nFileVersion = 140200
+2017-07-11 19:14:12 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-11 19:14:12  wallet                   50ms
+2017-07-11 19:14:12 setKeyPool.size() = 100
+2017-07-11 19:14:12 mapWallet.size() = 2
+2017-07-11 19:14:12 mapAddressBook.size() = 2
+2017-07-11 19:14:12 mapBlockIndex.size() = 104
+2017-07-11 19:14:12 nBestHeight = 103
+2017-07-11 19:14:12 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 19:14:12 init message: Loading addresses...
+2017-07-11 19:14:12 Loaded 0 addresses from peers.dat  0ms
+2017-07-11 19:14:12 init message: Loading banlist...
+2017-07-11 19:14:12 init message: Starting network threads...
+2017-07-11 19:14:12 DNS seeding disabled
+2017-07-11 19:14:12 net thread start
+2017-07-11 19:14:12 init message: Done loading
+2017-07-11 19:14:12 opencon thread start
+2017-07-11 19:14:12 addcon thread start
+2017-07-11 19:14:12 msghand thread start
+2017-07-11 19:14:12 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-11 19:14:28 addcon thread exit
+2017-07-11 19:14:28 scheduler thread interrupt
+2017-07-11 19:14:28 opencon thread exit
+2017-07-11 19:14:28 Shutdown: In progress...
+2017-07-11 19:14:28 net thread exit
+2017-07-11 19:14:28 msghand thread exit
+2017-07-11 19:14:28 Dumped mempool: 9e-06s to copy, 0.014059s to dump
+2017-07-11 19:14:28 Shutdown: done
+2017-07-11 19:14:38 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-11 19:14:38 Bitcoin version v0.14.2
+2017-07-11 19:14:38 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-11 19:14:38 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-11 19:14:38 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-11 19:14:38 Validating signatures for all blocks.
+2017-07-11 19:14:38 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-11 19:14:38 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-11 19:14:38 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-11 19:14:38 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-11 19:14:38 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-11 19:14:38 Using 2 threads for script verification
+2017-07-11 19:14:38 scheduler thread start
+2017-07-11 19:14:38 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-11 19:14:38 HTTP: creating work queue of depth 16
+2017-07-11 19:14:38 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-11 19:14:38 HTTP: starting 4 worker threads
+2017-07-11 19:14:38 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-11 19:14:38 Using wallet wallet.dat
+2017-07-11 19:14:38 init message: Verifying wallet...
+2017-07-11 19:14:38 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-11 19:14:38 Cache configuration:
+2017-07-11 19:14:38 * Using 2.0MiB for block index database
+2017-07-11 19:14:38 * Using 8.0MiB for chain state database
+2017-07-11 19:14:38 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-11 19:14:38 init message: Loading block index...
+2017-07-11 19:14:38 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-11 19:14:38 Opened LevelDB successfully
+2017-07-11 19:14:38 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-11 19:14:38 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-11 19:14:38 Opened LevelDB successfully
+2017-07-11 19:14:38 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-11 19:14:38 LoadBlockIndexDB: last block file = 0
+2017-07-11 19:14:38 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-11 19:14:38 Checking all blk files are present...
+2017-07-11 19:14:38 LoadBlockIndexDB: transaction index disabled
+2017-07-11 19:14:38 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-11 19:14:38 init message: Rewinding blocks...
+2017-07-11 19:14:38 init message: Verifying blocks...
+2017-07-11 19:14:38 Verifying last 6 blocks at level 3
+2017-07-11 19:14:38 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-11 19:14:38 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-11 19:14:38  block index             198ms
+2017-07-11 19:14:38 init message: Loading wallet...
+2017-07-11 19:14:38 nFileVersion = 140200
+2017-07-11 19:14:38 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-11 19:14:38  wallet                   62ms
+2017-07-11 19:14:38 setKeyPool.size() = 100
+2017-07-11 19:14:38 mapWallet.size() = 2
+2017-07-11 19:14:38 mapAddressBook.size() = 2
+2017-07-11 19:14:38 mapBlockIndex.size() = 104
+2017-07-11 19:14:38 nBestHeight = 103
+2017-07-11 19:14:38 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-11 19:14:38 init message: Loading addresses...
+2017-07-11 19:14:38 Loaded 0 addresses from peers.dat  0ms
+2017-07-11 19:14:38 init message: Loading banlist...
+2017-07-11 19:14:38 init message: Starting network threads...
+2017-07-11 19:14:38 DNS seeding disabled
+2017-07-11 19:14:38 net thread start
+2017-07-11 19:14:38 init message: Done loading
+2017-07-11 19:14:38 addcon thread start
+2017-07-11 19:14:38 opencon thread start
+2017-07-11 19:14:38 msghand thread start
+2017-07-11 19:14:38 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-11 22:22:58 socket sending timeout: 7230s
+2017-07-11 22:22:59 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=1
+2017-07-11 23:07:35 socket sending timeout: 2676s
+2017-07-11 23:07:35 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=2
+2017-07-12 00:02:13 socket sending timeout: 3278s
+2017-07-12 00:02:15 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=3
+2017-07-12 00:52:15 socket sending timeout: 2034s
+2017-07-12 00:52:15 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=4
+2017-07-12 02:59:22 socket sending timeout: 7205s
+2017-07-12 02:59:23 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=5
+2017-07-12 03:56:05 socket sending timeout: 3402s
+2017-07-12 03:56:06 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=6
+2017-07-12 05:56:12 socket receive timeout: 7206s
+2017-07-12 05:56:14 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=7
+2017-07-12 07:56:19 socket sending timeout: 7205s
+2017-07-12 07:56:22 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=8
+2017-07-12 09:56:26 socket sending timeout: 7204s
+2017-07-12 09:56:31 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=9
+2017-07-12 11:56:34 socket sending timeout: 7203s
+2017-07-12 11:56:35 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=10
+2017-07-12 12:56:48 socket sending timeout: 3613s
+2017-07-12 12:56:50 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=11
+2017-07-13 04:41:38 socket sending timeout: 56688s
+2017-07-13 04:41:42 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=12
+2017-07-13 08:33:06 socket sending timeout: 3086s
+2017-07-13 08:33:11 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=13
+2017-07-14 22:06:37 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017-07-14 22:06:37 Bitcoin version v0.14.2
+2017-07-14 22:06:37 InitParameterInteraction: parameter interaction: -listen=0 -> setting -discover=0
+2017-07-14 22:06:37 InitParameterInteraction: parameter interaction: -listen=0 -> setting -listenonion=0
+2017-07-14 22:06:37 InitParameterInteraction: parameter interaction: -whitelistforcerelay=1 -> setting -whitelistrelay=1
+2017-07-14 22:06:37 Validating signatures for all blocks.
+2017-07-14 22:06:37 Default data directory /Users/arunoda/Library/Application Support/Bitcoin
+2017-07-14 22:06:37 Using data directory /data/opt/bitcoin-testnet/2/regtest
+2017-07-14 22:06:37 Using config file /data/opt/bitcoin-testnet/2/bitcoin.conf
+2017-07-14 22:06:37 Using at most 125 automatic connections (7168 file descriptors available)
+2017-07-14 22:06:37 Using 32 MiB out of 32 requested for signature cache, able to store 1048576 elements
+2017-07-14 22:06:37 Using 2 threads for script verification
+2017-07-14 22:06:37 scheduler thread start
+2017-07-14 22:06:37 Binding RPC on address 0.0.0.0 port 19011 failed.
+2017-07-14 22:06:37 HTTP: creating work queue of depth 16
+2017-07-14 22:06:37 Config options rpcuser and rpcpassword will soon be deprecated. Locally-run instances may remove rpcuser to use cookie-based auth, or may be replaced with rpcauth. Please see share/rpcuser for rpcauth auth generation.
+2017-07-14 22:06:37 HTTP: starting 4 worker threads
+2017-07-14 22:06:37 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2017-07-14 22:06:37 Using wallet wallet.dat
+2017-07-14 22:06:37 init message: Verifying wallet...
+2017-07-14 22:06:37 CDBEnv::Open: LogDir=/data/opt/bitcoin-testnet/2/regtest/database ErrorFile=/data/opt/bitcoin-testnet/2/regtest/db.log
+2017-07-14 22:06:37 Cache configuration:
+2017-07-14 22:06:37 * Using 2.0MiB for block index database
+2017-07-14 22:06:37 * Using 8.0MiB for chain state database
+2017-07-14 22:06:37 * Using 440.0MiB for in-memory UTXO set (plus up to 286.1MiB of unused mempool space)
+2017-07-14 22:06:37 init message: Loading block index...
+2017-07-14 22:06:37 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/blocks/index
+2017-07-14 22:06:37 Opened LevelDB successfully
+2017-07-14 22:06:37 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/blocks/index: 0000000000000000
+2017-07-14 22:06:37 Opening LevelDB in /data/opt/bitcoin-testnet/2/regtest/chainstate
+2017-07-14 22:06:37 Opened LevelDB successfully
+2017-07-14 22:06:37 Using obfuscation key for /data/opt/bitcoin-testnet/2/regtest/chainstate: 8c265ff6d6523710
+2017-07-14 22:06:37 LoadBlockIndexDB: last block file = 0
+2017-07-14 22:06:37 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=104, size=24899, heights=0...103, time=2011-02-02...2017-07-11)
+2017-07-14 22:06:37 Checking all blk files are present...
+2017-07-14 22:06:37 LoadBlockIndexDB: transaction index disabled
+2017-07-14 22:06:37 LoadBlockIndexDB: hashBestChain=2aa5a4c271f6f1963cccaff8f4b247b4ee2e373f20b89f1f7cc90e124883ec69 height=103 date=2017-07-11 18:37:48 progress=1.000000
+2017-07-14 22:06:37 init message: Rewinding blocks...
+2017-07-14 22:06:37 init message: Verifying blocks...
+2017-07-14 22:06:37 Verifying last 6 blocks at level 3
+2017-07-14 22:06:37 [0%]...[16%]...[33%]...[50%]...[66%]...[83%]...[99%]...[DONE].
+2017-07-14 22:06:37 No coin database inconsistencies in last 7 blocks (9 transactions)
+2017-07-14 22:06:37  block index             165ms
+2017-07-14 22:06:37 init message: Loading wallet...
+2017-07-14 22:06:37 nFileVersion = 140200
+2017-07-14 22:06:37 Keys: 104 plaintext, 0 encrypted, 104 w/ metadata, 104 total
+2017-07-14 22:06:37  wallet                   53ms
+2017-07-14 22:06:37 setKeyPool.size() = 100
+2017-07-14 22:06:37 mapWallet.size() = 2
+2017-07-14 22:06:37 mapAddressBook.size() = 2
+2017-07-14 22:06:37 mapBlockIndex.size() = 104
+2017-07-14 22:06:37 nBestHeight = 103
+2017-07-14 22:06:37 init message: Loading addresses...
+2017-07-14 22:06:37 Imported mempool transactions from disk: 0 successes, 0 failed, 0 expired
+2017-07-14 22:06:37 Loaded 0 addresses from peers.dat  4ms
+2017-07-14 22:06:37 init message: Loading banlist...
+2017-07-14 22:06:37 init message: Starting network threads...
+2017-07-14 22:06:37 DNS seeding disabled
+2017-07-14 22:06:37 net thread start
+2017-07-14 22:06:37 addcon thread start
+2017-07-14 22:06:37 init message: Done loading
+2017-07-14 22:06:37 opencon thread start
+2017-07-14 22:06:37 msghand thread start
+2017-07-14 22:06:37 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=0
+2017-07-15 01:17:48 socket sending timeout: 1297s
+2017-07-15 01:17:49 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=1
+2017-07-15 01:38:27 socket sending timeout: 1238s
+2017-07-15 01:38:30 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=2
+2017-07-15 03:10:06 socket sending timeout: 5376s
+2017-07-15 03:10:09 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=3
+2017-07-15 04:22:00 socket sending timeout: 1219s
+2017-07-15 04:22:05 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=4
+2017-07-15 04:54:40 socket sending timeout: 1955s
+2017-07-15 04:54:45 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=5
+2017-07-15 05:15:19 socket sending timeout: 1234s
+2017-07-15 05:15:21 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=6
+2017-07-15 12:26:48 socket sending timeout: 1247s
+2017-07-15 12:26:48 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=7
+2017-07-15 14:27:18 socket sending timeout: 7230s
+2017-07-15 14:27:18 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=8
+2017-07-15 15:06:45 socket sending timeout: 2367s
+2017-07-15 15:06:45 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=9
+2017-07-15 17:06:52 socket sending timeout: 7207s
+2017-07-15 17:06:53 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=10
+2017-07-15 17:37:55 socket sending timeout: 1862s
+2017-07-15 17:37:58 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=11
+2017-07-15 19:20:53 socket sending timeout: 4855s
+2017-07-15 19:20:56 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=12
+2017-07-15 21:24:53 socket sending timeout: 7197s
+2017-07-15 21:24:58 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=13
+2017-07-15 23:25:07 socket sending timeout: 7209s
+2017-07-15 23:25:08 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=14
+2017-07-16 00:14:01 socket sending timeout: 2933s
+2017-07-16 00:14:04 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=15
+2017-07-16 01:43:25 socket sending timeout: 1429s
+2017-07-16 01:43:30 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=16
+2017-07-16 03:43:33 socket sending timeout: 7203s
+2017-07-16 03:43:34 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=17
+2017-07-16 04:13:47 socket sending timeout: 1238s
+2017-07-16 04:13:51 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=18
+2017-07-16 06:20:46 socket sending timeout: 7207s
+2017-07-16 06:20:52 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=19
+2017-07-16 07:30:39 socket sending timeout: 4187s
+2017-07-16 07:30:40 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=20
+2017-07-16 10:01:06 socket sending timeout: 1219s
+2017-07-16 10:01:08 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=21
+2017-07-16 10:44:43 socket sending timeout: 1266s
+2017-07-16 10:44:44 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=22
+2017-07-16 11:05:21 socket sending timeout: 1237s
+2017-07-16 11:05:24 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=23
+2017-07-16 11:37:25 socket sending timeout: 1239s
+2017-07-16 11:37:25 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=24
+2017-07-16 11:58:03 socket sending timeout: 1238s
+2017-07-16 11:58:06 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=25
+2017-07-16 12:18:42 socket sending timeout: 1236s
+2017-07-16 12:18:42 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=26
+2017-07-16 12:39:21 socket sending timeout: 1239s
+2017-07-16 12:39:23 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=27
+2017-07-16 12:59:59 socket sending timeout: 1236s
+2017-07-16 13:00:04 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=28
+2017-07-16 13:51:03 socket sending timeout: 1216s
+2017-07-16 13:51:07 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=29
+2017-07-16 15:08:35 socket sending timeout: 1228s
+2017-07-16 15:08:36 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=30
+2017-07-16 15:29:28 socket sending timeout: 1252s
+2017-07-16 15:29:33 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=31
+2017-07-16 15:50:21 socket sending timeout: 1248s
+2017-07-16 15:50:25 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=32
+2017-07-17 01:07:52 socket sending timeout: 1284s
+2017-07-17 01:07:55 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=33
+2017-07-17 03:08:22 socket sending timeout: 7227s
+2017-07-17 03:08:25 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=34
+2017-07-17 03:47:51 socket sending timeout: 2366s
+2017-07-17 03:47:55 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=35
+2017-07-17 05:09:54 socket sending timeout: 4919s
+2017-07-17 05:09:58 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=36
+2017-07-17 09:45:41 socket sending timeout: 1603s
+2017-07-17 09:45:43 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=37
+2017-07-17 12:04:07 socket sending timeout: 7230s
+2017-07-17 12:04:11 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=38
+2017-07-17 12:48:42 socket sending timeout: 2671s
+2017-07-17 12:48:46 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=39
+2017-07-17 14:48:49 socket sending timeout: 7203s
+2017-07-17 14:48:53 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=40
+2017-07-18 02:48:09 socket sending timeout: 7248s
+2017-07-18 02:48:13 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=41
+2017-07-18 03:25:45 socket sending timeout: 2252s
+2017-07-18 03:25:50 receive version message: /Satoshi:0.14.2/: version 70015, blocks=103, us=[::]:0, peer=42
+2017-07-18 16:39:48 UpdateTip: new best=73ee9c2d52173ed244fce35afc17b212d0553a9f0a2640b7578041c3a3f6139a height=104 version=0x20000000 log2_work=7.7142455 tx=108 date='2017-07-18 16:39:48' progress=1.000000 cache=0.0MiB(4tx)
+2017-07-18 17:10:49 UpdateTip: new best=167ae7126f6e1dbd09ba1058b5c3f62ab6d051263dd0de9da6c1234066d617a0 height=105 version=0x20000000 log2_work=7.7279205 tx=110 date='2017-07-18 17:10:49' progress=1.000000 cache=0.0MiB(3tx)
+2017-07-18 17:13:27 connect() to 127.0.0.1:19000 failed after select(): Connection refused (61)
+2017-07-18 17:13:32 connect() to 127.0.0.1:19000 failed after select(): Connection refused (61)
+2017-07-18 17:13:38 receive version message: /Satoshi:0.14.2/: version 70015, blocks=105, us=[::]:0, peer=43
+2017-07-18 17:14:22 connect() to 127.0.0.1:19000 failed after select(): Connection refused (61)
+2017-07-18 17:14:28 connect() to 127.0.0.1:19000 failed after select(): Connection refused (61)
+2017-07-18 17:14:33 receive version message: /Satoshi:0.14.2/: version 70015, blocks=105, us=[::]:0, peer=44
